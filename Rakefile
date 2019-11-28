@@ -6,5 +6,5 @@ RSpec::Core::RakeTask.new(:spec)
 task :default => :spec
 
 task :graphic do
-  ruby "lib/notes/triangle.rb"
+  ruby "lib/notes/main_window.rb"
 end

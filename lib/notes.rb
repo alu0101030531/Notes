@@ -1,5 +1,6 @@
 require "notes/version"
-require "notes/triangle"
+require "notes/main_window"
+require "notes/text_input"
 require "ruby2d"
 
 module Notes
